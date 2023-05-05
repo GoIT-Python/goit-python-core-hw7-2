@@ -139,5 +139,8 @@ def sort():
             sort(path)
 
         handle_archives(path)
-
         handle_output(dest)
+
+
+if __name__ == "__main__":
+    sort()

@@ -8,8 +8,8 @@ setup(
     author="Volodymyr Kurov",
     author_email="vokur13@gmail.com",
     license="MIT",
-    include_package_data=True,
+    # include_package_data=True,
     packages=find_namespace_packages(),
     install_requires=["transliterate"],
-    entry_points={"console_scripts": ["clean-folder = clean_folder.clean:sort"]},
+    entry_points={"console_scripts": ["clean-folder=clean_folder.clean:sort"]},
 )
