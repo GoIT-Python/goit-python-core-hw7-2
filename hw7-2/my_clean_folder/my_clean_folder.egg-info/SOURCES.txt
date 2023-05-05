@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+my_clean_folder/__init__.py
+my_clean_folder/my_clean.py
+my_clean_folder.egg-info/PKG-INFO
+my_clean_folder.egg-info/SOURCES.txt
+my_clean_folder.egg-info/dependency_links.txt
+my_clean_folder.egg-info/entry_points.txt
+my_clean_folder.egg-info/requires.txt
+my_clean_folder.egg-info/top_level.txt
